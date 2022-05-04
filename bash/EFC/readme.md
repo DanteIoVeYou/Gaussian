@@ -7,7 +7,10 @@ Using `wget` to download the bash script to localhost
 ```bash
 wget https://raw.githubusercontent.com/DanteIoVeYou/comp-chem-tools/main/bash/EFC/efc.sh
 ```
-
+or
+```bash
+https://gitee.com/imdanteking/comp-chem-tools/raw/main/bash/EFC/efc.sh
+```
 
 
 You should then do:
