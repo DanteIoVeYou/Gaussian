@@ -5,7 +5,7 @@ EFC.exe is to add entropy effect to a Gaussian output file.
 Using `wget` to download the bash script to localhost
 
 ```bash
-wget https://raw.githubusercontent.com/DanteIoVeYou/Gaussian/main/bash/EFC/efc.sh
+wget https://raw.githubusercontent.com/DanteIoVeYou/comp-chem-tools/main/bash/EFC/efc.sh
 ```
 
 
