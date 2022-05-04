@@ -9,7 +9,7 @@ wget https://raw.githubusercontent.com/DanteIoVeYou/comp-chem-tools/main/bash/EF
 ```
 or
 ```bash
-https://gitee.com/imdanteking/comp-chem-tools/raw/main/bash/EFC/efc.sh
+wget https://gitee.com/imdanteking/comp-chem-tools/raw/main/bash/EFC/efc.sh
 ```
 
 
